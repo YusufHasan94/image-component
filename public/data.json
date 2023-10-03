@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "image": "https://img.freepik.com/free-photo/lone-tree_181624-46361.jpg?w=740&t=st=1696361520~exp=1696362120~hmac=9efe1aceef6c71573d373607884465e2692092427dcde1b1a2711984c537fc42",
+      "description": "This is the first item. It's a beautiful piece of artwork."
+    },
+    {
+      "id": 2,
+      "image": "https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg?w=740&t=st=1696361534~exp=1696362134~hmac=4ba40aadcb2a96704f07529ae04d7f469aae6fb187b4e7ff55ebdc311e771f3e",
+      "description": "The second item is a vintage collectible with intricate details."
+    },
+    {
+      "id": 3,
+      "image": "https://img.freepik.com/free-photo/beautiful-view-greenery-bridge-forest-perfect-background_181624-17827.jpg?w=740&t=st=1696361544~exp=1696362144~hmac=8fda3aab87f0006de6292916a70207755eba5bdb77afa83d925c68b6255a0445",
+      "description": "Item number three is a modern design that combines style and functionality."
+    }
+  ]
